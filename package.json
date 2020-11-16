@@ -1,9 +1,0 @@
-{
-	"name": "com.a-rosuko.transition-mask",
-	"displayName": "TransitionMask",
-	"version": "1.0.0",
-	"unity": "2020.1",
-	"description": "Image Transition Mask Shader",
-	"dependencies": {
-	}
-}
