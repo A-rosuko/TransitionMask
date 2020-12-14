@@ -12,7 +12,7 @@ Shader本体です。
 * Assset/ExampleScenes
 サンプルシーンです。
 
-![Installation](images/Installation.PNG)
+![Installation](images/Installation.png)
 
 # Usage
 このshaderはuGUIのImageにMask用とImage用で2つ以上のMaterialを使用します。
