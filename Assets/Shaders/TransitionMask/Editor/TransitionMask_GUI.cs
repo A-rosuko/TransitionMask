@@ -10,8 +10,8 @@ namespace UnityEditor
         private static class Styles
         {
             public static GUIContent imageTypeText = new GUIContent("Image Type", "Image Type");
-            public static GUIContent maskBlendModeText = new GUIContent("Blend Mode", "Blend Mode");
-            public static GUIContent imageBlendModeText = new GUIContent("BlendMode", "BlendMode");
+            public static GUIContent maskBlendModeText = new GUIContent("Mask Blend Mode Preset", "Mask Blend Mode Preset");
+            public static GUIContent imageBlendModeText = new GUIContent("Image Blend Mode Preset", "Image Blend Mode Preset");
             public static GUIContent showMaskImageText = new GUIContent("Show Mask Image", "Show Mask Image");
             public static GUIContent multiplyAlphaText = new GUIContent("Multiply Alpha", "Multiply Alpha");
 
